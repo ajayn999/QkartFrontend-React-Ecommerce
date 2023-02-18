@@ -12,7 +12,7 @@ import Thanks from "./components/Thanks";
 import React, { useEffect, useState } from "react";
 
 export const config = {
-  endpoint: `https://qkart-frontend-ajay.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-frontend-backend-5kvu.onrender.com/api/v1`,
 };
 
 function App() {
